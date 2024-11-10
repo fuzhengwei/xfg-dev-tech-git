@@ -5,13 +5,11 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class ApiTest {
 
-    public static void    main      (String[] args) {
-        Integer x = 1   ;
-        System.out.println(x);
-    }
+    public Integer xfg=10;
 
-    public void t(){
-
+    public static void  main(String[] args) {
+        Integer x=111 ;
+        System.out.println( x) ;
     }
 
 }
