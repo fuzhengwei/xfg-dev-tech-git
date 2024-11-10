@@ -10,6 +10,10 @@ public class ApiTest {
         System.out.println(x);
     }
 
+    public void t(){
+
+    }
+
 }
 
 
